@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: f2201d6cf854b1246a3ea7727286981c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2289328805530860966
+    second: brinjal
+  - first:
+      213: -6397262738806724248
+    second: tomato
+  - first:
+      213: -2286345716874314190
+    second: cucumber
+  - first:
+      213: 740926628896323830
+    second: veggie_3
+  - first:
+      213: -7279113207325678750
+    second: broccoli
+  - first:
+      213: -670585256312838639
+    second: capsicum
+  - first:
+      213: -8098252676294313609
+    second: carrot
+  - first:
+      213: -7978450277811089592
+    second: veggie_7
+  - first:
+      213: -6028014280728929581
+    second: veggie_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brinjal
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 152
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -157.5}
+        - {x: -76, y: 157.5}
+        - {x: 10, y: 153.5}
+        - {x: 32, y: 18.5}
+        - {x: 76, y: -35.5}
+        - {x: 72, y: -157.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30facab9efdaea4a849c386b9e76ef8
+      internalID: -2289328805530860966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 187
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -86.5}
+        - {x: -87.5, y: -84.5}
+        - {x: -91.5, y: 78.5}
+        - {x: 68.5, y: 73.5}
+        - {x: 82.5, y: -68.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8c832d5ad4f84693afd736206f7a6
+      internalID: -6397262738806724248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 29
+        width: 293
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: -63}
+        - {x: -136.5, y: 61}
+        - {x: -21.5, y: 10}
+        - {x: 138.5, y: 61}
+        - {x: 138.5, y: -63}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d54406982da44ba574b40b49e8ad6
+      internalID: -2286345716874314190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 27
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059498b89e311ae4b88cb2bbc4311178
+      internalID: 740926628896323830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broccoli
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 148
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -97}
+        - {x: -34.5, y: -50}
+        - {x: -94.5, y: -25}
+        - {x: -97.5, y: 99}
+        - {x: 92.5, y: 103}
+        - {x: 97.5, y: -96}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3420d52354e8414c9469f8392911676
+      internalID: -7279113207325678750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capsicum
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 14
+        width: 195
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -108}
+        - {x: -84.5, y: 107}
+        - {x: -3.5, y: 105}
+        - {x: 88.5, y: 55}
+        - {x: 89.5, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba0dbea042c7f4585c609c3942f897
+      internalID: -670585256312838639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 233
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -179.5}
+        - {x: -105.5, y: 42.5}
+        - {x: -111.5, y: 92.5}
+        - {x: -100.5, y: 169.5}
+        - {x: -63.5, y: 188.5}
+        - {x: -14.5, y: 172.5}
+        - {x: 31.5, y: 150.5}
+        - {x: 43.5, y: 49.5}
+        - {x: 91.5, y: -31.5}
+        - {x: 92.5, y: -179.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a3e8ea4f602e419e992ec4bbc4835
+      internalID: -8098252676294313609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 217
+        width: 195
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -56.5}
+        - {x: -94.5, y: -21.5}
+        - {x: -93.5, y: 51.5}
+        - {x: 91.5, y: 33.5}
+        - {x: 87.5, y: -56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03647bd0107b21649a7666e4552caf78
+      internalID: -7978450277811089592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 118
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -73}
+        - {x: -66.5, y: -52}
+        - {x: -69.5, y: 31}
+        - {x: -8.5, y: 58}
+        - {x: 51.5, y: 52}
+        - {x: 64.5, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab499c39ff559c41b8567aa000173b8
+      internalID: -6028014280728929581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 49035b223a704cf4e87351b71e0bdc5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
